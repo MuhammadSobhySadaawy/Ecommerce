@@ -1,0 +1,12 @@
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Domain.deps.json
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Domain.dll
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Domain.pdb
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Domain.AssemblyInfo.cs
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Domain.dll
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Data\obj\Debug\net6.0\refint\Ecommerce.Domain.dll
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Domain.pdb
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Data\obj\Debug\net6.0\ref\Ecommerce.Domain.dll

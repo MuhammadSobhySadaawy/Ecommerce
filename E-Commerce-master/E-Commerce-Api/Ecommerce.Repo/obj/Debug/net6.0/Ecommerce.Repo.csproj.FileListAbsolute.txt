@@ -1,0 +1,17 @@
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.csproj.AssemblyReference.cache
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.GeneratedMSBuildEditorConfig.editorconfig
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.AssemblyInfoInputs.cache
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.AssemblyInfo.cs
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.csproj.CoreCompileInputs.cache
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Repo.deps.json
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Repo.runtimeconfig.json
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Repo.dll
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Repo.pdb
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Data.dll
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\bin\Debug\net6.0\Ecommerce.Data.pdb
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.csproj.CopyComplete
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.dll
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\obj\Debug\net6.0\refint\Ecommerce.Repo.dll
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.pdb
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\obj\Debug\net6.0\Ecommerce.Repo.genruntimeconfig.cache
+J:\E-Commerce-Electronic-master (1)\E-Commerce-Electronic-master\E-Commerce-Api\Ecommerce.Repo\obj\Debug\net6.0\ref\Ecommerce.Repo.dll
